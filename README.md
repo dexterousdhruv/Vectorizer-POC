@@ -23,3 +23,10 @@ npm run start
 - Decrease in image quality and sharpness.
 - Animated images with raw colors have better conversion quality compared to images of real life (humans, plants, etc.) subjects.
 - Conversion time varies with image size and format. Might cause performance overhead
+
+
+## Examples
+
+| Raster Image (PNG Input)                                                                                                                                                                                                         | Vector Image (Generated SVG)                                                                                                                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Raster Image](./lotus.png)<br/>| ![Vector Image](./lotus-vector.svg)<br/>|
