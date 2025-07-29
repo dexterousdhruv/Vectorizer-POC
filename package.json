@@ -1,0 +1,16 @@
+{
+  "name": "vectorizer",
+  "version": "1.0.0",
+  "main": "vectorize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node vectorize"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@neplex/vectorizer": "^0.0.5"
+  }
+}
