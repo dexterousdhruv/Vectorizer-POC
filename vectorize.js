@@ -18,7 +18,7 @@ const svg = await vectorize(src, {
   // maxIterations: 2,
   // pathPrecision: 5,
 
-  // For closer real world images
+  // For more precise real world images
   colorMode: ColorMode.Color,           // Retains full color — essential for photos
   colorPrecision: 8,                    // Higher precision to preserve subtle gradients
   filterSpeckle: 2,                     // Light noise filtering (avoid losing detail)
